@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-   Desafio2: FastFeet, O início 
+   Desafio2: FastFeet
 </h2>
 
 # Cloning this project
